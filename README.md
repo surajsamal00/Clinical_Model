@@ -258,15 +258,8 @@ pip install -r requirements.txt
 
 3. PyTorch Documentation: https://pytorch.org/docs/
 
-4. Indiana Reports Dataset: [Dataset Source]
+4. Indiana Reports Dataset
 
-## 📄 License
-
-[Specify your license here]
-
-## 👤 Author
-
-[Your Name]
 
 ## 🙏 Acknowledgments
 
@@ -275,6 +268,3 @@ pip install -r requirements.txt
 - Facebook AI Research for BART model
 
 ---
-
-For detailed project documentation, see [Internship_Report.md](Internship_Report.md)
-
